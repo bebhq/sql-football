@@ -1,0 +1,3 @@
+INSERT INTO Teams (team_name, agegroup_id)
+VALUES
+('Team1', '1');
